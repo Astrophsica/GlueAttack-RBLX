@@ -9,3 +9,4 @@ Once you have opened the file, you will find most of the scripts in the followin
 - ServerStorage (Medic)
 - StarterPack (Laser gun)
 - StarterGui (User Interface)
+- StarterPlayer (Slow Walk)
