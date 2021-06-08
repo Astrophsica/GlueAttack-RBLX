@@ -1,14 +1,12 @@
-# Glue-Attack
+# GlueAttack-RBLX
 
-IMPORTANT: Please do be aware that this game was created during a game jam, meaning the code will have very few comments and has not been optimised fully due to the time constraints of the game jam.
+## Note
+This project was made as part of a 24 hour game jam. Due to time constraints, code may have less comments and not optomised.
 
-To view the code, you can simply go to the "Scripts" folder on this page.
+### How to run project
+To run this project, you will first need to download [Roblox Studio](https://www.roblox.com/create). Then you need to open the [GlueAttack.rbxl](GlueAttack.rbxl) in Roblox Studio.
 
-To open and run the game file (Glue Attack.rbxl), you will need "Roblox Studio". You can download Roblox Studio by selecting "Start Creating" here: https://www.roblox.com/create. Alternatively, you can also open the file by click the "..." symbol and clicking "Edit" here: https://www.roblox.com/games/2340807127/Glue-Attack
+### What is this project?
+This was a game I created during a university gamejam. The goal is to create a game based on 3 words in approximately 24 hours. The random words I recieved were glue, playing and going.
 
-Once you have opened the file, you will find most of the scripts in the following locations in "Game Explorer":
-- ServerScriptService
-- ServerStorage (Medic)
-- StarterPack (Laser gun)
-- StarterGui (User Interface)
-- StarterPlayer (Slow Walk)
+### Project Images
